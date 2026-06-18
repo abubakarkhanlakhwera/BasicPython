@@ -1,36 +1,27 @@
-# Basicpython
+# Basic Python Practice
 
-Python fundamentals notebooks and practice exercises.
+Python fundamentals notebooks and exercises for building language confidence.
 
-## Overview
+## Purpose
 
-This is a Programming practice repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository is for learning and revising Python basics through notebooks and small exercises. It helps show progression through syntax, data structures, and beginner programming patterns.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Python notebook practice
+- Language fundamentals
+- Step-by-step learning exercises
 
-## Tech Stack
+## Stack
 
-- Primary language: Jupyter Notebook
-- Topics: jupyter-notebook, learning, python
-
-## Repository Structure
-
-- Top-level folders: python
-- Top-level files: PYTHON BETA.ipynb, Python Beta The Next Level up! Part 1.ipynb, README.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Python
+- Jupyter Notebook
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Group notebooks by topic
+- Add expected outputs for exercises
+- Add a short learning roadmap
 
 ## Author
 
